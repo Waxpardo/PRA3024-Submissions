@@ -1,2 +1,5 @@
 # ROOT files
 *.root
+
+# CIFAR-10 dataset files
+Week 5/cifar_data/
